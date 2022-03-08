@@ -14,7 +14,7 @@ div{
     background-color: orange;
     box-sizing: border-box;
     padding: 20px;
-    margin: 0 auto 0 auto;
+    margin: 0 auto 0 auto;  
 }
 @media (max-width:824px) {
     .wrapper{
